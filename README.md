@@ -1,3 +1,4 @@
 # bmi_app
 
-![Screenshot_1612128223](https://user-images.githubusercontent.com/70061105/106398793-dfc45980-643a-11eb-80cc-4e4faa2293f1.png)
+![ss1](https://user-images.githubusercontent.com/70061105/106399156-02f00880-643d-11eb-95dd-f3edd2b0f347.jpeg)
+![ss2](https://user-images.githubusercontent.com/70061105/106399161-0a171680-643d-11eb-86e0-a6f4f8601014.jpeg)
